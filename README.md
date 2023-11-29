@@ -1,6 +1,6 @@
 # Script Estructura Básica de Sitio Web
 
-Puedes utilizar el script `.bat` incluido para crear automáticamente la estructura basica de un SitioWeb.
+Puedes utilizar el script `.bat` incluido para crear automáticamente la estructura basica de un sitio web.
 
 ## Estructura de Carpetas y Archivos
 
