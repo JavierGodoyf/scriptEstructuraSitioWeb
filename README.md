@@ -30,6 +30,6 @@ Haz doble clic en el archivo `estructuraSitioWeb.bat`.
 ## Notas Adicionales
 - Puedes personalizar el contenido de los archivos según tus necesidades.
 - Asegúrate de tener permisos para ejecutar scripts en tu sistema.
-- Se subirá otros script para otros sistemas operativos :)
+- ¡Ya hay version bash!
 
 ¡Disfruta construyendo tu sitio web!
